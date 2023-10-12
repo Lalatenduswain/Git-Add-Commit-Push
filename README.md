@@ -31,6 +31,3 @@ This script is provided as-is and may require modifications or updates based on 
 - **Lalatendu Swain**
 - GitHub: [Lalatenduswain](https://github.com/Lalatenduswain)
 - Website: [Blog](https://blog.lalatendu.info/)
-```
-
-You can copy and paste this content into your repository's README.md file. Modify it further if needed to provide more information, usage instructions, or any other relevant details.
